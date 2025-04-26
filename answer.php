@@ -45,7 +45,7 @@
       <div class="right-image">
         <img src="./images/movie_ratings.jpg" alt="Image of a poster with the types of movie ratings." />
       </div>
-      <div class="page-content-php">
+      <div class=" page-content-php">
         <div id="user-info">
 
           <?php
