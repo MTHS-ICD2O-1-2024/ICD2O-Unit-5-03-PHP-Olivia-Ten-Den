@@ -29,7 +29,7 @@
     </header>
     <main class="mdl-layout__content">
       <div class="right-image">
-        <img src="./images/movie_ratings.jpg" width="250" height="361" alt="Image of a poster with the types of movie ratings." />
+        <img src="./images/movie_ratings.jpg" alt="Image of a poster with the types of movie ratings." />
       </div>
       <div class="page-content">Enter your age below.</div>
       <br />
